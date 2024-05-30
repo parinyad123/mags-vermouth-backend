@@ -17,7 +17,7 @@ the initialization and setup of a Go project that uses the Gin web framework and
 
 #### Additional Libraries
 - `$ github.com/gin-contrib/cors` : This library provides middleware for handling Cross-Origin Resource Sharing (CORS), which is crucial for web applications that interact with resources from different origins.
-- `github.com/gin-gonic/gin@v1.8.1` : This command installs a specific version (v1.8.1) of the Gin framework, ensuring that your project uses a stable and expected version of Gin.
+- `$ github.com/gin-gonic/gin@v1.8.1` : This command installs a specific version (v1.8.1) of the Gin framework, ensuring that your project uses a stable and expected version of Gin.
 
 ### 3. Run the Go Project
 `$ go run main.go`
